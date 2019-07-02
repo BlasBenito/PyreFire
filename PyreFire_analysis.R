@@ -135,4 +135,4 @@ dev.off()
 
 #SAVING OUTPUT
 ####################################
-save(formulas, models, sites, file = "output_marbore_basa.RData")
+save(formulas, models, sites, file = "output/output_marbore_basa.RData")
